@@ -1,8 +1,8 @@
 @charset: utf-8;
 
 body {
-  background-color:black;
-  color:#eeeeee;  
+  background-image: url("http://i1186.photobucket.com/albums/z369/arme81531/Sky.png");
+  color:#0000CC ;
 }
 
 .container {
@@ -20,10 +20,6 @@ section {
   margin-bottom: 60px;
 }
 
-.title-img {
-  text-align:justify;
-}
-
 .section-title {
   background-image:url('line.png') ;
   background-repeat:no-repeat;
@@ -31,24 +27,24 @@ section {
 }
 
 footer {
-  margin-bottom:200px;
+  margin-bottom:50px;
   text-align:center;
 }
 
 footer ul li {
-  width: 100px;
+  width: 150px;
   display: inline-block;
 }
 
 a {
-  color:gray;
+  color:#CC00FF;
 }
 
 a:hover {
   color:white;
 }
 
-connect ul li {
-    width: 100px;
-    display: inline-block;
+td {
+    background-color:#66FFFF;
 }
+
